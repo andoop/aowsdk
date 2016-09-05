@@ -3,10 +3,11 @@
   <groupId>cn.dow.android</groupId>
   <artifactId>aowsdk</artifactId>
   <versioning>
-    <release>4.3</release>
+    <release>latest</release>
     <versions>
       <version>4.3</version>
+      <version>latest</version>
     </versions>
-    <lastUpdated>20160905063913</lastUpdated>
+    <lastUpdated>20160905071211</lastUpdated>
   </versioning>
 </metadata>
